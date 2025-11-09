@@ -98,7 +98,7 @@ I thrive on innovation and problem-solving, with a clear mission to design impac
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
+<br> 
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px" height="35px"> GitHub Stats
 
