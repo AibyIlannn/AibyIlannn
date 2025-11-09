@@ -172,7 +172,7 @@ I thrive on innovation and problem-solving, with a clear mission to design impac
   
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Made with 💙 and lots of ☕
   
-<p>© 2024 aibyilannn - All Rights Reserved</p>
+<p>© 2025 aibyilannn - All Rights Reserved</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
