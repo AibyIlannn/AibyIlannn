@@ -112,9 +112,6 @@ I thrive on innovation and problem-solving, with a clear mission to design impac
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aibyilannn&theme=tokyonight" width="32%" />
   
   <br>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=aibyilannn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
