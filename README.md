@@ -23,6 +23,8 @@ I'm **Ilan Al Iman**, also known as **"Devilann"**, based in Serang City, Banten
 
 I prefer collaborative team work with clear positioning where each member has their own specialization. As a tech enthusiast who believes in the build in public philosophy, **I actively contribute to various Indonesian developer communities** such as Dolphcoder community, Programmer Nusantara Grantara, Walantaka Inc (WTK), TemanCoding, Yhoiki, and SmileYourSystem. My vision for the next 3 years is to become an influential Software Engineer and remain committed to continuously building free open-source tools beneficial to the public, realizing the mission of democratizing access to quality technology.
 
+皆さん、こんにちは。イランと申します。ここで一緒に学び、共有し、成長できることを嬉しく思います。
+
 <br/>
 <br/>
 
