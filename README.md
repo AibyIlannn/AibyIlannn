@@ -17,7 +17,7 @@
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius:50%; margin-bottom:10%;" width="100%" alt="Coding Animation">
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 I'm **Ilan Al Iman**, also known as **"Devilann"**, based in Serang City, Banten, Indonesia. I am a Fullstack JavaScript Engineer specializing in **backend development**. My professional tech stack includes Next.js, Node.js, React.js, and PostgreSQL. As a freelancer open to collaboration, I maintain a strong commitment to quality standards while serving hundreds of active users monthly. I actively explore emerging technologies such as Web3 and smart contracts to expand my capabilities in the blockchain ecosystem.
 
