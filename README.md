@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+aibyilannn+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Building+Cool+Stuff+%F0%9F%9A%80;Let's+Code+Together!+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+DevIlannn+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Building+Cool+Stuff+%F0%9F%9A%80;Let's+Code+Together!+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-I'm **Ilan Al Iman**, also known as **"Devilann"**, based in Serang City, Banten, Indonesia. I am a Fullstack JavaScript Engineer specializing in **backend development**. My professional tech stack includes Next.js, Node.js, React.js, and PostgreSQL. As a freelancer open to collaboration, I maintain a strong commitment to quality standards while serving hundreds of active users monthly. I actively explore emerging technologies such as Web3 and smart contracts to expand my capabilities in the blockchain ecosystem.
+I'm **<strong>Ilan Al Iman</strong>**, also known as **"Devilann"**, based in Serang City, Banten, Indonesia. I am a Fullstack JavaScript Engineer specializing in **backend development**. My professional tech stack includes Next.js, Node.js, React.js, and PostgreSQL. As a freelancer open to collaboration, I maintain a strong commitment to quality standards while serving hundreds of active users monthly. I actively explore emerging technologies such as Web3 and smart contracts to expand my capabilities in the blockchain ecosystem.
 
 I prefer collaborative team work with clear positioning where each member has their own specialization. As a tech enthusiast who believes in the build in public philosophy, **I actively contribute to various Indonesian developer communities** such as Dolphcoder community, Programmer Nusantara Grantara, Walantaka Inc (WTK), TemanCoding, Yhoiki, and SmileYourSystem. My vision for the next 3 years is to become an influential Software Engineer and remain committed to continuously building free open-source tools beneficial to the public, realizing the mission of democratizing access to quality technology.
 
