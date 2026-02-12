@@ -23,13 +23,10 @@ I am Ilan Al Iman, also known as “Devilann”, based in Serang City, Banten, I
 
 I value collaborative work environments with clear role distribution, where each team member has well-defined specializations and responsibilities. As a tech enthusiast who believes in the build-in-public philosophy, I actively contribute to various Indonesian developer communities, including Dolphcoder Community, Programmer Nusantara Grantara, Walantaka Inc (WTK), TemanCoding, Yhoiki, and SmileYourSystem. I believe that code quality, well-structured system architecture, and effective team communication are the fundamental pillars of building sustainable digital products.
 
-日本語
 皆さん、こんにちは。イランと申します。ここで一緒に学び、共有し、成長できることを嬉しく思います。
 
-한국어
 기술을 통해 문제를 해결하고, 더 나은 시스템을 함께 만들어가고 싶습니다.
 
-中文
 借助科技力量，打造更加开放与可持续的未来。
 
 #Ilanaliman 
