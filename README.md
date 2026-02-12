@@ -19,12 +19,22 @@
 
 <br/><br/>
 
-I'm **<strong>Ilan Al Iman</strong>**, also known as **"Devilann"**, based in Serang City, Banten, Indonesia. I am a Fullstack JavaScript Engineer specializing in **backend development**. My professional tech stack includes Next.js, Node.js, React.js, and PostgreSQL. As a freelancer open to collaboration, I maintain a strong commitment to quality standards while serving hundreds of active users monthly. I actively explore emerging technologies such as Web3 and smart contracts to expand my capabilities in the blockchain ecosystem.
+I am Ilan Al Iman, also known as “Devilann”, based in Serang City, Banten, Indonesia. I am a Software Engineer with a focus on backend development and the JavaScript ecosystem. My primary tech stack includes Next.js, Node.js, React.js, and PostgreSQL. As a freelancer open to collaboration, I am committed to maintaining high quality standards in every project, serving hundreds of active users each month. I continuously explore emerging technologies such as Web3 and smart contracts to expand my capabilities within the blockchain ecosystem.
 
-I prefer collaborative team work with clear positioning where each member has their own specialization. As a tech enthusiast who believes in the build in public philosophy, **I actively contribute to various Indonesian developer communities** such as Dolphcoder community, Programmer Nusantara Grantara, Walantaka Inc (WTK), TemanCoding, Yhoiki, and SmileYourSystem. My vision for the next 3 years is to become an influential Software Engineer and remain committed to continuously building free open-source tools beneficial to the public, realizing the mission of democratizing access to quality technology.
+I value collaborative work environments with clear role distribution, where each team member has well-defined specializations and responsibilities. As a tech enthusiast who believes in the build-in-public philosophy, I actively contribute to various Indonesian developer communities, including Dolphcoder Community, Programmer Nusantara Grantara, Walantaka Inc (WTK), TemanCoding, Yhoiki, and SmileYourSystem. I believe that code quality, well-structured system architecture, and effective team communication are the fundamental pillars of building sustainable digital products.
 
+日本語
 皆さん、こんにちは。イランと申します。ここで一緒に学び、共有し、成長できることを嬉しく思います。
 
+한국어
+기술을 통해 문제를 해결하고, 더 나은 시스템을 함께 만들어가고 싶습니다.
+
+中文
+借助科技力量，打造更加开放与可持续的未来。
+
+#Ilanaliman 
+#SoftwareEngineer #DeveloperLife 
+#DigitalProduct #IndonesiaDeveloper
 <br/>
 <br/>
 
